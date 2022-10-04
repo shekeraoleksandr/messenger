@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "editor.formatOnSave": false,
+    "[csharp]": {
+      "editor.formatOnSave": true
+    }
+  }
+}
